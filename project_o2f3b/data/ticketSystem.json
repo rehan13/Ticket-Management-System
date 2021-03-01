@@ -1,0 +1,41 @@
+{
+    "Ticket": [
+        {
+            "Destination": "Calgary",
+            "Flight No": "KS34521",
+            "Ticket No": "AN43215-54331",
+            "Seat No": "1",
+            "Contact No": "2313123",
+            "Date of Birth": "25-11-2020",
+            "Emergency Contact No": "4314222",
+            "System": "Rehan",
+            "Name": "Rehan",
+            "Passport No": "145678"
+        },
+        {
+            "Destination": "Calgary",
+            "Flight No": "KS34521",
+            "Ticket No": "AN43215-54332",
+            "Seat No": "1",
+            "Contact No": "2132132321",
+            "Date of Birth": "25-11-2020",
+            "Emergency Contact No": "3143254354",
+            "System": "Gayatri",
+            "Name": "Gayatri",
+            "Passport No": "21323211afsd"
+        },
+        {
+            "Destination": "Vancouver",
+            "Flight No": "KS34521",
+            "Ticket No": "KS34521-54331",
+            "Seat No": "1",
+            "Contact No": "2132132321",
+            "Date of Birth": "25-11-2020",
+            "Emergency Contact No": "3143254354",
+            "System": "Gayatri",
+            "Name": "Gayatri",
+            "Passport No": "21323211afsd"
+        }
+    ],
+    "System": "Ticket Management System"
+}

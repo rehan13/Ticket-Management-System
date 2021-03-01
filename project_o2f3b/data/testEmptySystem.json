@@ -1,0 +1,15 @@
+{
+  "Ticket": [{
+    "Destination": "",
+    "Flight No": "",
+    "Ticket No": "",
+    "Seat No": "",
+    "Contact No": "",
+    "Date of Birth": "",
+    "Emergency Contact No": "",
+    "System": "",
+    "Name": "",
+    "Passport No": ""
+  }],
+  "System": "Ticket Management System"
+}
