@@ -1,5 +1,4 @@
-# Flight Booking System
-
+# Ticket Management System
 ## The airport ticket booking system books flights to Calgary, Montréal, Toronto and Vancouver
 
 
